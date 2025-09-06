@@ -85,14 +85,3 @@
 * **loop orqali ma’lumot yig‘ish**,
 * **hisoblagich (`count`) ishlatish**,
 * `while`ni shart bilan tugatishni o‘rganishadi.
-
----
-
-## ✅ Xulosa (ustozona maslahat)
-
-Bu 5 ta vazifani qilgan o‘quvchi:
-
-* **while loop qanday ishlashini** mukammal tushunadi,
-* `break`, `continue`, `input`, `if` kabi asosiy vositalarni qo‘llay oladi,
-* Haqiqiy kichik dasturchi sifatida **mini-proektlar** tuzib ko‘radi.
-
